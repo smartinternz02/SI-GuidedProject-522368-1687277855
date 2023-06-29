@@ -1,17 +1,22 @@
 # SI-GuidedProject-522368-1687277855
 
 
-***
+
+
+*
 
 # Suicide in India from 2001 to 2012: Visualizations using Tableau
+WEBSITE LINK - https://suicides-in-india-visualization.pages.dev/
 
-***
+
+DEMONSTRATION LINK - https://drive.google.com/drive/folders/1S9gcdJGkPWMJINRJBw5IL24ZFFyXDWat?usp=sharing
+*
 
 ### ABSTRACT                                                                                                                                          
 
 This project aims to analyse and visualize the trends and patterns of suicide cases in India from 2001 to 2012. Suicide is a critical social issue, and understanding its patterns can help in devising effective preventive measures and mental health interventions. The project utilizes Tableau, a powerful data visualization tool, to present the data in an interactive and insightful manner.
 
-***
+*
 
 ### INTRODUCTION
 i) Overview:
@@ -22,7 +27,7 @@ ii) Purpose:
             This project intimates the suicidal reports held In the year 2002-2012.In this project,we have visualized the reports by using bubble chart, pie chart, etc.This project helps to collect data from many sources and convert it to useful that can be utilized to data driven choices.
             This project helps to understand the cause of the issue in an easy manner. This project helps to connect with several data sources, analyse data and visualize it to get superior insights.
  
-***
+*
 
 ### LITERATURE SURVEY
 Existing problem:
@@ -33,7 +38,7 @@ Proposed solution:
 To deploy any reports or applications we need to check lot of things like frame work, folder permissions, etc. Without worrying about all these issues, in tableau we can deploy our projects, data sources & workbooks easily.
 Grouping and correlating multiple anomalies by design, Anodot’s AI-powered analytics elevates the essential insights first. By learning the normal behaviour of millions of metric’s, Anodot detects only the most impactful incidents and alerts relevant teams at the start.
  
-***
+*
 
 Hardware Requirements
 
@@ -47,14 +52,14 @@ Operating System: Tableau Desktop supports Windows and macOS. Ensure that your o
 Database Drivers: If you are connecting to databases or other data sources, ensure that you have the required database drivers installed on your machine.
 Web Browser: When publishing and accessing visualizations on Tableau Server or Online, you'll need a supported web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge.
 
-***
+*
 
 ### Methodology
 a. Data Collection: The primary data source for this project is the National Crime Records Bureau (NCRB) report on suicides in India. The dataset contains information on various factors such as age, gender, occupation, causes, and methods of suicide.
 b. Data Preprocessing: The dataset is cleaned and prepared for visualization by removing duplicates, handling missing values, and transforming the data into a format suitable for analysis.
 c. Data Visualization: Tableau is used to create a series of visualizations to explore different aspects of suicide cases in India. The visualizations include charts, graphs, maps, and interactive dashboards.
  
-***
+*
 
 ### THE DATASET
 State:  Name of the Indian state where the data belongs to.
@@ -71,7 +76,7 @@ Age_group:  What age group does the person belong to who committed suicide.
 
 Total: Count of people who committed suicide and has the common above 6 mentioned parameters.
 
-***
+*
 
 ### EXPERIMENTAL INVESTIGATIONS
 There have been very few articles that have dealt exclusively with suicide preventive strategies or with a scientific and systematic evaluation of a strategy.
@@ -84,48 +89,48 @@ Jena and Siddharta[49] reviewed articles on non fatal suicidal attempts of adole
 
 Vijayakumar[50] in an editorial expresses the urgent need for suicide prevention in India and stresses that suicide is a multifaceted problem and hence suicide prevention programs should also be multidimensional. In India, suicide prevention is more of a social and public health objective than a traditional exercise in the mental health sector. She concludes by saying that the time is ripe for mental health professionals to adopt proactive and leadership roles in suicide prevention and save the lives of thousands of young Indians.
 
-***
+*
 
 ## RESULTS
 
 <div class='tableauPlaceholder' id='viz1687990008513' style='position: relative'><noscript><a href='#'><img alt='WHY ARE SUICIDES HAPPENING  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BA&#47;BARCHART2_16878201087190&#47;WHYARESUICIDESHAPPENING&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BARCHART2_16878201087190&#47;WHYARESUICIDESHAPPENING' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BA&#47;BARCHART2_16878201087190&#47;WHYARESUICIDESHAPPENING&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>  
 
               
-***
+*
 
 <div class='tableauPlaceholder' id='viz1687991501442' style='position: relative'><noscript><a href='#'><img alt='AGE GROUP  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BA&#47;BARCHART1_16878208248570&#47;AGEGROUP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BARCHART1_16878208248570&#47;AGEGROUP' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BA&#47;BARCHART1_16878208248570&#47;AGEGROUP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>      
 
 
-***
+*
 
 
 <div class='tableauPlaceholder' id='viz1687991594585' style='position: relative'><noscript><a href='#'><img alt='SUICIDES PER YEAR (FORECASTING) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LI&#47;LINECHART1_16878218146790&#47;SUICIDESPERYEAR&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LINECHART1_16878218146790&#47;SUICIDESPERYEAR' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LI&#47;LINECHART1_16878218146790&#47;SUICIDESPERYEAR&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
 
-***
+*
 
 
 <div class='tableauPlaceholder' id='viz1687991617211' style='position: relative'><noscript><a href='#'><img alt='PIE CHART (AGE GROUP) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PI&#47;PIECHART1_16878211093210&#47;AGEGROUP_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PIECHART1_16878211093210&#47;AGEGROUP_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PI&#47;PIECHART1_16878211093210&#47;AGEGROUP_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
 
 
-***
+*
 
 <div class='tableauPlaceholder' id='viz1687991634561' style='position: relative'><noscript><a href='#'><img alt='BUBBLE CHART&quot;REASONS&quot; ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BU&#47;BUBBLECHART_16878216139230&#47;BUBBLECHART&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BUBBLECHART_16878216139230&#47;BUBBLECHART' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BU&#47;BUBBLECHART_16878216139230&#47;BUBBLECHART&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
 
 
-***
+*
 
 <div class='tableauPlaceholder' id='viz1687991649038' style='position: relative'><noscript><a href='#'><img alt='CAUSES WITH GENDER(LINE CHART) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LI&#47;LINECHART2_16878222904660&#47;LINECHARTFORECASTING&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LINECHART2_16878222904660&#47;LINECHARTFORECASTING' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LI&#47;LINECHART2_16878222904660&#47;LINECHARTFORECASTING&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
-***
+*
 
 
 <div class='tableauPlaceholder' id='viz1687991741447' style='position: relative'><noscript><a href='#'><img alt='SUICIDES IN EACH STATE OVER THE COURSE OF 12 YEARS ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MA&#47;MAP_16878228203360&#47;SUICIDESINEACHSTATEOVERTHECOURSEOF12YEARS&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MAP_16878228203360&#47;SUICIDESINEACHSTATEOVERTHECOURSEOF12YEARS' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MA&#47;MAP_16878228203360&#47;SUICIDESINEACHSTATEOVERTHECOURSEOF12YEARS&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
 
-***
+*
 
 ## DASHBOARD
 
@@ -138,14 +143,14 @@ Vijayakumar[50] in an editorial expresses the urgent need for suicide prevention
 
 
 
-***
+*
 
 ## STORY
 <div class='tableauPlaceholder' id='viz1687992051325' style='position: relative'><noscript><a href='#'><img alt='Story  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ST&#47;STORY_16879757164280&#47;STORY&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='STORY_16879757164280&#47;STORY' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ST&#47;STORY_16879757164280&#47;STORY&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 
 
 
-***
+*
 
 ### Advantages of using Tableau:
 Visualization can be a very spiritual practice. Precise visualizations and clarity of mind can take you deeper within yourself, facilitating a powerful connection to the sacred. Visualization is a great access point for meditation and can help you move deeper into stillness and connection with your higher power and higher self.
@@ -157,7 +162,7 @@ It requiring more time, effort, and skills to design, develop, and maintain than
 It gives assessment not exactness – While the information is exact in foreseeing the circumstances, the perception of similar just gives the assessment.
 
 
-***
+*
 
 ### APPLICATIONS
 
@@ -171,7 +176,7 @@ It gives assessment not exactness – While the information is exact in foreseei
 
 5. Human resources analytics: Tableau assists HR professionals in analysing and visualizing workforce data. It helps in tracking employee performance, identifying talent gaps, monitoring employee engagement, and generating HR reports and dashboards.
 
-***
+*
 
 
 ## CONCLUSION
@@ -192,7 +197,7 @@ In conclusion, the visualizations of suicides in India from 2001 to 2012 provide
 Overall, the visualizations of suicides in India from 2001 to 2012 shed light on the magnitude and complexity of the issue. They underscore the importance of adopting a multi-faceted approach that combines preventive measures, early intervention, policy changes, and community engagement to effectively address the challenge of suicide in India.
 
 
-***
+*
 
 
 ### FUTURE SCOPE
@@ -205,7 +210,7 @@ Overall, the visualizations of suicides in India from 2001 to 2012 shed light on
 7. Investigate the correlation between substance abuse and suicide rates, examining the prevalence of substance use disorders as a contributing factor in suicides.
 
 
-***
+*
 
 
 BIBILOGRAPHY
@@ -216,7 +221,7 @@ BIBILOGRAPHY
 5. Hedge RS. Suicide in rural community. Indian J Psychiatry. 1980;22:368–70. [PMC free article] [PubMed] [Google Scholar].
  
 
-***
+*
 
 
 ## REFERENCES
@@ -229,7 +234,7 @@ https://smartbridge.teachable.com/courses/vit-android-application-development/le
 
  
 
-***
+*
 
 ## APPENDIX
 Links for the visualizations.
@@ -248,21 +253,21 @@ https://public.tableau.com/views/LINECHART2_16878222904660/LINECHARTFORECASTING?
 
 https://public.tableau.com/views/MAP_16878228203360/SUICIDESINEACHSTATEOVERTHECOURSEOF12YEARS?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link4
 
-***
+*
 
 DASHBOARDS
 https://public.tableau.com/shared/85Z3H4GC5?:display_count=n&:origin=viz_share_link
 
 https://public.tableau.com/views/DashBoard-2_16878910452980/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link&:device=desktop
 
-***
+*
 
 
 DEMONSTRATION LINK
 
 https://drive.google.com/drive/folders/1S9gcdJGkPWMJINRJBw5IL24ZFFyXDWat?usp=sharing
 
-***
+*
 
 
 CONTRIBUTORS:
@@ -271,4 +276,4 @@ CONTRIBUTORS:
 * [CHARAN VIVEK RAJ R](https://github.com/charan-vivek-raj-r)
 * [HARISH RAGAVENDAR R](https://github.com/harish12366)
 * [ABILASH N](https://github.com/Abilash-N)
-
+* [JEEVA S](https://github.com/Jeevasivasamy)
